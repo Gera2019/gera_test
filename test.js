@@ -3,6 +3,6 @@ function alrt(n){
 	alert(n);
 };
 
-n = 6;
+n = prompt("Input n");
 alrt(n);
 
